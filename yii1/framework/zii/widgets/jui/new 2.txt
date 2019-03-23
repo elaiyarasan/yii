@@ -1,0 +1,1 @@
+'<tr><td>' . $po['po_no'] . '</td><td>' . $po['material_id'] . '</td><td>' . $po['dcno'] . '</td><td>' . $po['dcdate'] . '</td><td>' . $po['SAP_Amount'] . '</td><td>' . $po['IDEAS_Amount'] . '</td></tr>'

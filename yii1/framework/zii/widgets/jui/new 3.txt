@@ -1,0 +1,1 @@
+'text'=>'<tr><td>' . $values['po_no'] . '</td><td>' . $values['material_id'] . '</td><td>' . $values['dcno'] . '</td><td>' . $values['dcdate'] . '</td><td>' . $values['SAP_Amount'] . '</td><td>' . $values['IDEAS_Amount'] . '</td></tr>',
